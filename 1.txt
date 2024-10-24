@@ -1,0 +1,11 @@
+ - Root folder: /opt/cursor/projects/cursor-django
+# - Runtime: Python 3.12
+# - Python Environment: `venv` at `/opt/cursor/projects/cursor-django/venv`
+# - Django root folder: `/opt/cursor/projects/cursor-django/src`
+# - Django project name: `core`
+# - Django run command: `env/bin/gunicorn --chdir src core.wsgi:application --bind 0.0.0.0:8000 --reload --log-level debug`
+# - Django background service: `cursor-django.service`
+# - Environment-variables manager: `python-decouple`
+# - Django Static root: `src/static`
+# - Django Static url: `/static/`
+# - Django Static dirs: `src/staticfiles`

@@ -1,0 +1,24 @@
+Environment:
+- 1 CPU Core
+- 25 GB Storage
+- 1 GB RAM
+- 0 Volumes
+- Public IP: 172.105.78.20
+- OS: Ubuntu 24.04 LTS
+- new pacakges install - auto approve
+- Update system rarely
+
+# My Info
+- name: yurii
+- email: yuriygolovchenko47@gmail.com
+
+#web server
+- nginx
+
+
+# Project 
+- Repo url: https://github.com/Yurii-1710/cursor-django.git
+Runtime: Python 3.12
+# - Python Environment: `env` at `/opt/cursor/projects/cursor-django/env`
+# - Django root folder: `/opt/cursor/projects/cursor-django/src`
+
